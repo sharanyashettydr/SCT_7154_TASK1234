@@ -1,0 +1,12 @@
+[Key.esc][Key.esc]
+--- Keylogger Started ---
+[Key.esc]
+--- Keylogger Stopped ---
+
+--- Keylogger Started ---
+hii[Key.space]sharanya[Key.esc]
+--- Keylogger Stopped ---
+
+--- Keylogger Started ---
+hiisharnya[Key.esc]
+--- Keylogger Stopped ---
